@@ -5,4 +5,3 @@ estructura de los datos, independientemente del formato en el que estén almacen
 descrito por Peter Chen en 1976, pero también incorpora nuevas funciones y amplía sus usos tradicionales.). Para ello creamos un ADO.NET Entity Data Model.
 4. **Dificultad o problemas presentados y como se resolvieron:** No hubo dificultades en este ejercicio.
 
-![imagen](img1.png)
